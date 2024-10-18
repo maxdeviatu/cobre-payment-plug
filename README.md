@@ -279,5 +279,5 @@ cobre-payment-plug/
 
 Para cualquier consulta o soporte, por favor contacta a:
 
-- **Tu Nombre**
+- **Maximiliano Avendaño**
 - **Email:** srmax.net@gmail.com
