@@ -280,4 +280,4 @@ cobre-payment-plug/
 Para cualquier consulta o soporte, por favor contacta a:
 
 - **Tu Nombre**
-- **Email:** tu.email@ejemplo.com
+- **Email:** srmax.net@gmail.com
